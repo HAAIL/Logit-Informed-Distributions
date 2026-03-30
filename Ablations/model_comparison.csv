@@ -1,0 +1,5 @@
+Dataset,gemma-3,gpt-2,llama-3-8b
+adult,0.5623,0.3699,0.5496
+blood,0.5223,0.5787,0.6087
+heart_failure,0.7669,0.5852,0.7368
+stroke,0.6904,0.7121,0.6244

@@ -1,0 +1,5 @@
+Dataset,entropy,logprob_difference
+adult,0.6738,0.6589
+blood,0.5756,0.5751
+heart_failure,0.708,0.7431
+stroke,0.6862,0.6899

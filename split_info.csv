@@ -1,0 +1,30 @@
+dname,type,feature_split_on,split_info,P_IID,P_OOD,include
+abalone,regression,Shell_weight,greater_than_0.13,4.784788642609096,21.21190,F
+adult,binary classification,age,exclude_age<28,0.8091863625378612,0.4135873376258885,T
+airfoil_noise,regression,frequency,less_than_1600,23.68785829002621,77.1592,T
+bank_marketing,binary classification,duration,exclude_duration>319,0.87511671051515,0.8031491939049952,F
+bike_sharing,regression,hr,greater_than_6,19030.461722765285,77858.1562,T
+breast_cancer_diagnostic,binary classification,radius2,keep_lower_50%,0.9916764018691588,0.8923773364485981,F
+breast_cancer_original,binary classification,Mitoses,exclude_Mitoses=1,0.9913446054750404,0.9846014492753624,F
+cervical_cancer,binary classification,First sexual intercourse,exclude_intercourse<15,0.8703929704661947,0.4400781059311691,T
+chronic_kidney_disease,binary classification,bu,exclude_bu<61.75,0.9931851851851852,0.8216296296296296,T
+combined_cycle_power,regression,AT,greater_than_13.51,21.239856938225493,962.9365,T
+communities_crime,regression,racePctWhite,greater_than_0.98,0.0071,0.1705,T
+concrete_strength,regression,Cement,greater_than_350,98.1384,469.1975,T
+dry_bean,multiclass classification,MajorAxisLength,keep_lower_50%,0.9781506465111838,0.6345198321332902,F
+ecoli,multiclass classification,mcg,keep_lower_50%,0.9335637677193672,0.9000362265265872,F
+energy_efficiency,regression,X2,keep_lower_50%,0.8771144278606966,0.3333333333333333,F
+forest_fires,regression,month_jul,exclude_month_jul=0,7896.496612697713,14130.029427229474,F
+glass,multiclass classification,Mg,greater_than_2.11,0.8789887049213837,0.3532,F
+heart_disease,multiclass classification,exang_1,exclude_exang_1=0,0.7845254005558127,0.6633450232937961,F
+hepatitis,binary classification,Bilirubin,keep_lower_50%,0.9324324324324323,0.4621621621621621,F
+openml_diabetes,binary classification,insu,keep_lower_50%,0.8375308641975308,0.7567078189300411,F
+rice,binary classification,Minor_Axis_Length,keep_lower_50%,0.9776583303627824,0.9770548394964448,F
+yeast,multiclass classification,erl,exclude_erl=0.5,0.8758502649408187,0.6779793851674679,F
+income,binary classification,age,exclude_age>31,0.8724,0.8001,F
+bank,binary classification,duration,exclude_duration>127,0.8784,0.7801,T
+blood,binary classification,recency,exclude_recency>14,0.7481,0.5719,T
+stroke,binary classification,age,greater_than_32,0.8422,0.6075,T
+heart_failure,binary classification,ejection_fraction,less_than_30,0.8485,0.7456,T
+diabetes_prediction,binary classification,blood_glucose_level,greater_than_126,0.9630,0.8825,T
+hnc,binary classification,age,greater_than_75,0.9978,0.5415,T

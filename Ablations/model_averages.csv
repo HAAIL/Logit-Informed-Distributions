@@ -1,0 +1,4 @@
+Model,Test_AUC
+gemma-3,0.635475
+llama-3-8b,0.629875
+gpt-2,0.561475

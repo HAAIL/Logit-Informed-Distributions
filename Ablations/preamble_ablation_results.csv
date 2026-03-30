@@ -1,0 +1,5 @@
+dataset,condition,test_auc
+stroke,with_preamble,0.7071
+blood,with_preamble,0.53
+heart_failure,with_preamble,0.6378
+adult,with_preamble,0.771

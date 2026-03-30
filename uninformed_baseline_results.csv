@@ -1,0 +1,13 @@
+dataset,type,metric
+adult,binary,0.9997
+cervical_cancer,binary,0.4477
+chronic_kidney_disease,binary,0.7151
+diabetes_prediction,binary,0.853
+communities_crime,regression,0.0732
+stroke,binary,0.6180038374811229
+heart_failure,binary,0.7418546365914788
+hnc,binary,0.5669988925802879
+concrete_strength,regression,165.72150488613005
+airfoil_noise,regression,51.107789947795006
+combined_cycle_power,regression,23.576461370008325
+bike_sharing,regression,71889.8102483339
